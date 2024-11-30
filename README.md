@@ -10,7 +10,6 @@
 - 🔭 **Actualmente trabajando en**: Proyecto mensajes javaFX, proyecto con Pokeapi  
 - 🌱 **Aprendiendo sobre**: Python  
 - 💬 Java
-- 
 - 📫 **Cómo contactarme**:
         Correo: marcossanchezramirez@hotmail.com
         Linkdn : https://www.linkedin.com/in/marcos-s%C3%A1nchez-ram%C3%ADrez-52285b329/
