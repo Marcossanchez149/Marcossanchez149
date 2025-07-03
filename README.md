@@ -48,12 +48,15 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Chainable** | PHP library for chaining handlers with fallback logic | PHP, Composer |
-| **UahProyecto** | Academic full stack platform for managing learning content | React, Django, PostgreSQL |
-| **Game Logic Systems** | Java project focused on game architecture & energy system | Java, JavaFX |
-| *(More coming soon)* | |
+| Project                    | Description                                                                                                                              | Tech                                                                                     |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **SecureAuthServer**       | Spring Boot REST API with JWT authentication (login, signup), stateless token security, and role-based access control.                   | Java, Spring Boot, Spring Security, JWT, MySQL ([geeksforgeeks.org][1], [github.com][2]) |
+| **KotlinClientServer**     | Kotlin + Spring Boot application showcasing backend API access from a Kotlin client, using WebSocket/SockJS for real-time communication. | Kotlin, Spring Boot, WebSocket, SockJS                                                   |
+| **AsymmetricSecureServer** | Spring Boot service implementing asymmetric encryption for secure data transmission and JWT authentication with key-based encryption.    | Java, Spring Boot, Spring Security, JWT, RSA Encryption                                  |
+
+[1]: https://www.geeksforgeeks.org/spring-boot-3-0-jwt-authentication-with-spring-security-using-mysql-database/?utm_source=chatgpt.com "JWT Authentication with Spring Security using MySQL Database"
+[2]: https://github.com/ali-bouali/spring-boot-3-jwt-security?utm_source=chatgpt.com "ali-bouali/spring-boot-3-jwt-security - GitHub"
+
 
 ---
 
